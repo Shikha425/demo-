@@ -1,4 +1,4 @@
 # demo
 This is my first Git Repository.
 <br>
-Author - Shikha Gupta 
+Author -  Shikha Gupta 
